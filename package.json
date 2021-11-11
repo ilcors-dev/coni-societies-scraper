@@ -1,0 +1,18 @@
+{
+  "name": "coni-scraper",
+  "version": "0.0.0",
+  "description": "Scrapes information about sport society from www.coni.it",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Corsetti <ilcors-dev>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
